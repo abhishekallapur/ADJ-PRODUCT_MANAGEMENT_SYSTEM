@@ -19,22 +19,29 @@ ProductWebApp/
 │ └── report_result.jsp
 ```
 
+```
+HOME PAGE
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
+ADD PAGE:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/add.png)
 
-HOME PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/Allproduct.png
+UPDATE PAGE:https:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/update.png)
 
-ADD PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/add.png
+DISPLAY PAGE:https:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/Allproduct.png)
 
-UPDATE PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/delete.png
+DELETE PAGE:https:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/delete.png)
 
-DISPLAY PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/Allproduct.png
+RESULT_FORM PAGE:https:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/generatereport.png)
 
-DELETE PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/delete.png
+PRICE_FILTER_DISPLAY:https:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/pricefilter.png)
 
-RESULT_FORM PAGE:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/generatereport.png
-
-PRICE_FILTER_DISPLAY:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/pricefilter.png
-
-CATEGORY_FILTER_DISPLAY:https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/category.png
+CATEGORY_FILTER_DISPLAY:
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/category.png)
 
 
 
