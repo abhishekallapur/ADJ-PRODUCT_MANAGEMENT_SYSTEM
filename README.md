@@ -19,7 +19,7 @@ ProductWebApp/
 │ └── report_result.jsp
 ```
 
-```
+
 HOME PAGE
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
 ADD PAGE:
@@ -45,9 +45,9 @@ CATEGORY_FILTER_DISPLAY:
 
 
 
-
-MySQL DATABASE :
 ```
+MySQL DATABASE :
+
 CREATE DATABASE productdb;
 use productdb;
 CREATE TABLE Products (
@@ -57,6 +57,7 @@ Category VARCHAR(50),
 Price DECIMAL(10,2),
 Quantity INT
 );
+```
 
 ```
 
