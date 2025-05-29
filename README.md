@@ -21,23 +21,23 @@ ProductWebApp/
 
 
 HOME PAGE
-![image alt](//github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
+![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
 ADD PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/add.png)
 
-UPDATE PAGE:https:
+UPDATE PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/update.png)
 
-DISPLAY PAGE:https:
+DISPLAY PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/Allproduct.png)
 
-DELETE PAGE:https:
+DELETE PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/delete.png)
 
-RESULT_FORM PAGE:https:
+RESULT_FORM PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/generatereport.png)
 
-PRICE_FILTER_DISPLAY:https:
+PRICE_FILTER_DISPLAY:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/pricefilter.png)
 
 CATEGORY_FILTER_DISPLAY:
