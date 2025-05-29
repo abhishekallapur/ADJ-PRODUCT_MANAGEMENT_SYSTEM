@@ -21,7 +21,7 @@ ProductWebApp/
 
 
 HOME PAGE
-![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
+![image alt](//github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/homepage.png)
 ADD PAGE:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/add.png)
 
