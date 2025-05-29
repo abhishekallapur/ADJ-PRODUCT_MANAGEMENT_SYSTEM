@@ -46,6 +46,9 @@ CATEGORY_FILTER_DISPLAY:
 MYSQL:
 ![image alt](https://github.com/abhishekallapur/ADJ-PRODUCT_MANAGEMENT_SYSTEM/blob/main/OUTPUT/mysql.jpg)
 
+
+
+
 ```
 MySQL DATABASE :
 
